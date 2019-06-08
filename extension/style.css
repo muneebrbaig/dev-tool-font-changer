@@ -1,3 +1,6 @@
+/*
+For mac, try replacing .platform-linux with .platform-mac in the stylesheet. For more information, check the official source of these styles in Chromium for reference
+*/
 :host-context(.platform-linux) .monospace,
 :host-context(.platform-linux) .source-code,
 .platform-linux .monospace,
